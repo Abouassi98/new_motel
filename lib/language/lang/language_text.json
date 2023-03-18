@@ -1,0 +1,24 @@
+[
+    
+    {
+        "text_id": "enter_last_name",
+        "en": "Enter first name",
+        "fr": "Entrer le nom de famille",
+        "ar": "إدخال اسم آخر",
+        "ja": "名前を入力してください"
+    },
+    {
+        "text_id": "first_name_cannot_empty",
+        "en": "First Name cannot be empty",
+        "fr": "Le prénom ne peut pas être vide",
+        "ar": "لا يمكن أن يكون الاسم الأول فارغًا",
+        "ja": "名を空にすることはできません"
+    },
+    {
+        "text_id": "last_name_cannot_empty",
+        "en": "Last Name cannot be empty",
+        "fr": "Le nom de famille ne peut pas être vide",
+        "ar": "لا يمكن أن يكون الاسم الأخير فارغًا",
+        "ja": "姓を空にすることはできません"
+    }
+]
